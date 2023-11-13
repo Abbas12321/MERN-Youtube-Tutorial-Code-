@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "first_name": "Elon",
+        "last_name": "Musk",
+        "email": "elonmusk@bintweet.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Steve",
+        "last_name": "Austin",
+        "email": "steveaus@vincekiwaat.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Katrina",
+        "last_name": "Kaif",
+        "email": "katrinak@tiger3.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "MS",
+        "last_name": "Dhoni",
+        "email": "MSD@mastermind.com",
+        "gender": "Male"
+    },
+    {
+        "first_name": "jhon",
+        "last_name": "cena",
+        "email": "jhon@wwe.com",
+        "gender": "Male",
+        "id": 5
+    },
+    {
+        "id": 6
+    },
+    {
+        "id": 7
+    },
+    {
+        "my name": "elon",
+        "age": "56",
+        "id": 8
+    },
+    {
+        "id": 9
+    },
+    {
+        "my name": "elon",
+        "age": "56",
+        "id": 10
+    },
+    {
+        "first_name": "steve",
+        "last_name": "austin",
+        "email": "sa@gmail.com",
+        "gender": "male",
+        "id": 11
+    }
+]

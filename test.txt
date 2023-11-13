@@ -1,0 +1,14 @@
+REST API - JSON
+
+GET /api/emps -List of data    -- done
+GET /emps -List of data    -- html format - done
+
+GET /api/emps/1 - singe data  -- done
+
+GET /api/emps/2 - singe data  -- done
+
+POST /api/emps - create new   --  done 
+
+PATCH /api/emps/1 - edit data  -- today we will cover
+
+DELETE /api/emps/1 - deleting data  -- today we will cover
